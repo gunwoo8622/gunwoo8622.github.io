@@ -33,7 +33,7 @@ yat:
 # sitemap: false
 
 # If you want to change site language, you can set lang option
-# lang: "ko"  # default lang is en
+lang: "ko"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -93,10 +93,10 @@ yat:
 
 # Page default value
 # defaults:
-#   home:
-#     heading: "개발자로 성장하기"
-#     subheading: "끊임없이 시도하기"
-#     banner: "home.jpg"
+  home:
+    heading: "개발자로 성장하기"
+    subheading: "끊임없이 시도하기"
+    banner: "home.jpg"
 
 # Pagination setting
 # paginate: 5
