@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 김건우 개발자 블로그
+title: 개발자 김건우 블로그
 email: gunwoo8622@naver.com
 author: gunwoo8622
 copyright: Copyright © 1970-2010
